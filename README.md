@@ -1,6 +1,13 @@
 # moodle-tool_lala-example-evidence-analysis
 Example for an analysis of audit evidence collected with the [LaLA](https://github.com/LiFaytheGoblin/moodle-tool_lala) Moodle Plugin. 
 
+The analysis is conducted in 'analysis.ipynb'.
+
+Because of the lack of suitable test data, the evidence was manipulated in 'manipulation.ipynb'. 
+See also the limitations section in the analysis notebook.
+
+The original evidence as well as the manipulated evidence data sets are in the 'data' folder.
+
 ## License ##
 
 2023 Linda Fernsel fernsel@htw-berlin.de
